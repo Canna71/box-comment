@@ -2,7 +2,7 @@
     "name": "box-comment",
     "displayName": "Box Comment",
     "description": "Create a decorative box comment",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "canna",
     "engines": {
         "vscode": "^1.8.0"
