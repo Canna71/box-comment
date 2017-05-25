@@ -28,6 +28,8 @@ function getOneLineCommentStart(languageId) {
         case 'less':
         case 'pegjs':
         case 'php':
+        case 'scss':
+        case 'sass':
         case 'uno':
             return '//';
 
